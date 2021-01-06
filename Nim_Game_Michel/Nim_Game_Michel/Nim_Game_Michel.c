@@ -3,8 +3,7 @@
 #include <stdlib.h>     // rand()
 #include <time.h>       // initialisierung des Zufallsgenerators
 
-
 int main()
 {
-
+	//Komentar Test
 }
