@@ -1,2 +1,3 @@
 ﻿  Nim_Game_Michel.c
+C:\Users\mauru\Documents\HFIE\GIT\HFIE\Nim_Game_Michel\Nim_Game_Michel\Nim_Game_Michel.c(124): warning C4715: "EingabeReihen": Nicht alle Codepfade geben einen Wert zurück.
   Nim_Game_Michel.vcxproj -> C:\Users\mauru\Documents\HFIE\GIT\HFIE\Nim_Game_Michel\Debug\Nim_Game_Michel.exe
